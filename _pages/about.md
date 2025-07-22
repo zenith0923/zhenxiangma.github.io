@@ -29,14 +29,14 @@ My research interests are primarily focused on 3D Visual Grounding, Multimodal L
 
  # 📝 Publications 
 <!-- Paper1 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [BTG-Net++: Enhanced Bi-directional Task-Guided Network for Few-Shot Fine-Grained Image Classification](https://ieeexplore.ieee.org/document/11030655)
 
 **Zhen-Xiang Ma**, Zhen-Duo Chen, Tai Zheng, Xin Luo, Xin-Shun Xu
 
-_TCSVT 2025 (SCI-1)_
+_TCSVT (SCI-1)_
 </div>
 </div>
 
