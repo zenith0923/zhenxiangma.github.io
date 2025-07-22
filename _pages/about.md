@@ -22,10 +22,10 @@ I am currently a Ph.D. student in a joint program between Shandong University ([
 My research interests are primarily focused on 3D Visual Grounding, Multimodal Large Language Models, as well as Fine-grained Few-shot Learning.
 
 # 🔥 News
-- *2025.06*: &nbsp;🎉🎉 One paper is accepted by TCSVT (SCI-1). 
-- *2024.12*: &nbsp;🎉🎉 One paper is accepted by AAAI 2025 (CCF-A).
-- *2024.07*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2024 (CCF-A).
-- *2023.12*: &nbsp;🎉🎉 One paper is accepted by AAAI 2024 (CCF-A).
+- *2025.06*: &nbsp;🎉🎉 One paper is accepted by TCSVT (SCI-1)! 
+- *2024.12*: &nbsp;🎉🎉 One paper is accepted by AAAI 2025 (CCF-A)!
+- *2024.07*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2024 (CCF-A)!
+- *2023.12*: &nbsp;🎉🎉 One paper is accepted by AAAI 2024 (CCF-A)!
 <!-- 
 # 📝 Publications 
 
