@@ -7,7 +7,6 @@
 
 # Site Settings
 title                    : "Homepage"
-description              : "Focusing on 3D Visual Grounding and Fine-grained Few-shot learning. "
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
