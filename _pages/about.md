@@ -20,11 +20,13 @@ redirect_from:
 I am currently a Ph.D. student in a joint program between Shandong University ([SDU](https://www.sdu.edu.cn/index.htm)) and the Beijing Institute for General Artificial Intelligence ([BIGAI](https://www.bigai.ai/)). I am jointly supervised by Prof. [Xin-Shun Xu](https://faculty.sdu.edu.cn/xuxinshun/zh_CN/index.htm) from the [MIMA Lab](https://mima.sdu.edu.cn/) and Dr. [Zixia Jia](https://jzxxx.github.io/) from the BIGAI, NLCo Group.
 
 My research interests are primarily focused on 3D Visual Grounding, Multimodal Large Language Models, as well as Fine-grained Few-shot Learning.
-<!-- 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
+# 🔥 News
+- *2025.06*: &nbsp;🎉🎉 One paper is accepted by TCSVT (SCI-1). 
+- *2024.12*: &nbsp;🎉🎉 One paper is accepted by AAAI 2025 (CCF-A).
+- *2024.07*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2024 (CCF-A).
+- *2023.12*: &nbsp;🎉🎉 One paper is accepted by AAAI 2024 (CCF-A).
+<!-- 
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
