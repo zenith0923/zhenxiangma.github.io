@@ -26,8 +26,8 @@ My research interests are primarily focused on 3D Visual Grounding, Multimodal L
 - *2024.12*: &nbsp;🎉🎉 One paper is accepted by AAAI 2025 (CCF-A)!
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2024 (CCF-A)!
 - *2023.12*: &nbsp;🎉🎉 One paper is accepted by AAAI 2024 (CCF-A)!
-<!-- 
-# 📝 Publications 
+
+<!-- # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
