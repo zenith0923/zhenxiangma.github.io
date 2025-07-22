@@ -17,10 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D. student in a joint program between Shandong University ([SDU](https://www.sdu.edu.cn/index.htm)) and the Beijing Institute for General Artificial Intelligence ([BIGAI](https://www.bigai.ai/)). 
+I am currently a Ph.D. student in a joint program between Shandong University ([SDU](https://www.sdu.edu.cn/index.htm)) and the Beijing Institute for General Artificial Intelligence ([BIGAI](https://www.bigai.ai/)). I am jointly supervised by Prof. [Xin-Shun Xu](https://faculty.sdu.edu.cn/xuxinshun/zh_CN/index.htm) from the [MIMA Lab](https://mima.sdu.edu.cn/) and Dr. [Zixia Jia](https://jzxxx.github.io/) from the BIGAI, NLCo Group.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+My research interests are primarily focused on 3D Visual Grounding, Multimodal Large Language Models, as well as Fine-grained Few-shot Learning.
 <!-- 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
