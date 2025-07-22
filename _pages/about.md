@@ -29,7 +29,7 @@ My research interests are primarily focused on 3D Visual Grounding, Multimodal L
 
  # 📝 Publications 
 <!-- Paper1 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2025</div><img src='images/BTG-Net++.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [BTG-Net++: Enhanced Bi-directional Task-Guided Network for Few-Shot Fine-Grained Image Classification](https://ieeexplore.ieee.org/document/11030655)
@@ -40,8 +40,41 @@ _TCSVT (SCI-1)_
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **TCSVT 2025**
+<!-- Paper2 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/SUITED.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+[Few-Shot Fine-Grained Image Classification with Progressively Feature Refinement and Continuous Relationship Modeling](https://ojs.aaai.org/index.php/AAAI/article/view/32645)
+
+**Zhen-Xiang Ma**, Zhen-Duo Chen, Tai Zheng, Xin Luo, Zixia Jia, Xin-Shun Xu
+
+_AAAI (CCF-A)_
+</div>
+</div>
+
+<!-- Paper3 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/BTG-Net.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Bi-directional Task-Guided Network for Few-Shot Fine-Grained Image Classification](https://dl.acm.org/doi/10.1145/3664647.3680593)
+
+**Zhen-Xiang Ma**, Zhen-Duo Chen, Li-Jun Zhao, Zi-Chao Zhang, Tai Zheng, Xin Luo, Xin-Shun Xu
+
+_ACM MM (CCF-A)_
+</div>
+</div>
+
+<!-- Paper4 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/C2-Net.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Cross-Layer and Cross-Sample Feature Optimization Network for Few-Shot Fine-Grained Image Classification](https://ojs.aaai.org/index.php/AAAI/article/view/28208)
+
+**Zhen-Xiang Ma**, Zhen-Duo Chen, Tai Zheng, Xin Luo, Xin-Shun Xu
+
+_TCSVT (SCI-1)_
+</div>
+</div>
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
