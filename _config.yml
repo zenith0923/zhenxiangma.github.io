@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zhen-Xiang Ma (马振向)"
+  name             : "Zhen-Xiang Ma" <br> "马振向"
   avatar           : "images/self_image.jpg"
   bio              : "Beijing Institute for General Artificial Intelligence (BIGAI)"
   location         : "Beijing, China"
