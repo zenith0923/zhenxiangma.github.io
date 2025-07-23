@@ -27,7 +27,7 @@ My research interests are primarily focused on 3D Visual Grounding, Multimodal L
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2024 (CCF-A)!
 - *2023.12*: &nbsp;🎉🎉 One paper is accepted by AAAI 2024 (CCF-A)!
 
- # 📝 Publications 
+# 📝 Publications 
 <!-- Paper1 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2025</div><img src='images/BTG-Net++.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
