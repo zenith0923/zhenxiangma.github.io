@@ -37,6 +37,7 @@ My research interests are primarily focused on 3D Visual Grounding, Multimodal L
 **Zhen-Xiang Ma**, Zhen-Duo Chen, Tai Zheng, Xin Luo, Xin-Shun Xu
 
 _TCSVT (SCI-1)_
+[**Code**](https://github.com/zenith0923/BTG-Net-pp)
 </div>
 </div>
 
@@ -72,16 +73,18 @@ _ACM MM (CCF-A)_
 
 **Zhen-Xiang Ma**, Zhen-Duo Chen, Tai Zheng, Xin Luo, Xin-Shun Xu
 
-_TCSVT (SCI-1)_
+_AAAI (CCF-A)_
+[**Code**](https://github.com/zenith0923/C2-Net)
 </div>
 </div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.10* First-Class Doctoral Scholarship of SDU.
+- *2023.10* Outstanding Graduate Student of SDU.
+- *2022.06* Outstanding Graduates of SDU. 
 
 # 📖 Educations
-- *2022.06 - now*, Ph.D, Artificial Intelligence, School of Software, Shandong University. 
+- *2022.06 - 2027.06(expected)*, Ph.D, Artificial Intelligence, School of Software, Shandong University. 
 
 - *2018.09 - 2022.06*, B.Eng., Software Engineering (Artificial Intelligence Experimental Class), School of Software, Shandong University. 
 
