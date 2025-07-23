@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Homepage"
+title                    : "Zhen-Xiang Ma"
 description              : "Ph.D. Student @ Shandong University | Research Intern @ Beijing Institute for General Artificial Intelligence (BIGAI)"
-repository               : "RayeRen/acad-homepage.github.io"
+repository               : "zenith0923/zenith0923.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
